@@ -10,4 +10,24 @@ f02 file :- Dart function without parameter and return value.
 
 fo3 file :- Dart function with parameter without a return value.
     A program to find the even numner and odd number. statics value and user the enter value.
-w1
+
+p01 file :- Posinal paramater function in dart language.
+
+p02 file :- named named paramater function in dart language.
+
+p03 file :- defoult paramater fiuncation in dart language.
+
+c01 file :- control, flow statement 
+                if statement
+                if else statement
+                else if statement
+cn01 file :- switch statement
+
+c02 file :- Simple class create in dart language.
+
+c03 file :- create class and then apply paramater pass:
+                Posinal paramater function,
+                named paramater function,
+                defoult paramater function.
+        
+
